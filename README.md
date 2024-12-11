@@ -17,8 +17,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-(필요하다면 React, AWS 등 추가 가능)
-
 ---
 
 **📚 Recent Projects & Experience**  
@@ -37,13 +35,8 @@
 
 **📫 Contact Me**  
 - **Email**: anzk9898@gmail.com  
-- **Portfolio**: [Notion Portfolio](여기에 노션 포트폴리오 링크 추가)
+- **Portfolio**: (https://spice-seal-c28.notion.site/15744af51c898091abc6e0f0b0872af6)
 - **GitHub**: [github.com/zkan98](https://github.com/zkan98)
-
----
-
-**📊 GitHub Stats**  
-![zkan98's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkan98&show_icons=true&theme=default)
 
 ---
 
